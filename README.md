@@ -3,6 +3,13 @@
 
 > Generate a closed range of numbers `[a, b]` with step size `d`
 
+Installation
+------------
+
+```bash
+npm install range-inclusive
+```
+
 Usage
 -----
 
