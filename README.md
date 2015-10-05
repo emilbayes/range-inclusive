@@ -1,5 +1,5 @@
-`range-inclusive`
-=================
+`range-inclusive` [![Build Status][1]][2]
+=============================================
 
 > Generate a closed range of numbers `[a, b]` with step size `d`
 
@@ -25,3 +25,6 @@ License
 -------
 
 [ISC](LICENSE)
+
+  [1]: https://travis-ci.org/emilbayes/range-inclusive.svg?branch=master
+  [2]: https://travis-ci.org/emilbayes/range-inclusive
