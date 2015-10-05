@@ -17,4 +17,4 @@ rangeInclusive(7, 5, -1) // [7, 6, 5]
 License
 -------
 
-[ISC][LICENSE]
+[ISC](LICENSE)
