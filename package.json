@@ -1,6 +1,6 @@
 {
   "name": "range-inclusive",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Generate a closed range of numbers `[a, b]` with step size `d`",
   "main": "index.js",
   "devDependencies": {
