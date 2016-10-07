@@ -25,3 +25,7 @@ test('single digit', function (assert) {
   assert.deepEqual(rangeInclusive(10, 10), [10])
   assert.end()
 })
+test('decimal', function (assert) {
+  assert.deepEqual(rangeInclusive(0, 1, 0.3), [0, 0.3, 0.3 + 0.3, 0.3 + 0.3 + 0.3])
+  assert.end()
+})
