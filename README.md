@@ -21,6 +21,11 @@ rangeInclusive(3, 9, 3) // [3, 6, 9]
 rangeInclusive(7, 5, -1) // [7, 6, 5]
 ```
 
+Related
+-------
+
+- [`range-exclusive`](https://github.com/emilbayes/range-exclusive)
+
 License
 -------
 
